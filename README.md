@@ -5,4 +5,4 @@ Link to the game:
 
 ## Screenshots
 Main menu \
-<img src="https://user-images.githubusercontent.com/82577844/192135117-558c2df6-ef64-4d6c-9066-3c7d46b43bb9.png" height = 100>
+<img src="https://user-images.githubusercontent.com/82577844/192135326-146e9e2c-0248-4d34-a03c-559f2b83f829.PNG" height = 300)
