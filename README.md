@@ -1,7 +1,7 @@
 # Math-Invaders
 A arcade style space invader game with an element of math inside. Made with Unity. \
 Available on mobile on the Google Play Store! \
-Link to the game: 
+Currently unavailable on the Play store due to Google Play policy changes.
 
 ## Screenshots
 Main menu \
