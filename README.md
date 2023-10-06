@@ -2,6 +2,7 @@
 A arcade style space invader game with an element of math inside. Made with Unity. \
 Available on mobile on the Google Play Store! \
 Currently unavailable on the Play store due to Google Play policy changes.
+Link to APK: https://drive.google.com/file/d/1dspM6XAzmyS4hRprDwoeK8-fGIQbVmX0/view?usp=sharing
 
 ## Screenshots
 Main menu \
